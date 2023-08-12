@@ -22,11 +22,10 @@ de una empresa.
 
 <a href="https://www.linkedin.com/in/andr%C3%A9s-barahona-102016a0/"><img src="https://static.vecteezy.com/system/resources/previews/018/910/721/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="80" height="80"></a>
 
-
-
-
-
-
 ---
 
+Más información:
 
+- [Contacto](pages/contacto.html)
+- [Perfil en Portugués](pages/portugues.html)
+- [Perfil en Inglés](pages/ingles.html)
