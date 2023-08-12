@@ -21,7 +21,7 @@ gran interés en como los procesos de análisis de datos pueden aportar tanto va
 de una empresa. 
 
 
-- ![LinkedIn](https://play.google.com/store/apps/details/LinkedIn?id=com.linkedin.android&hl=es_VE)(https://www.linkedin.com/in/andr%C3%A9s-barahona-102016a0/)
+- [![LinkedIn](https://play.google.com/store/apps/details/LinkedIn?id=com.linkedin.android&hl=es_VE)](https://www.linkedin.com/in/andr%C3%A9s-barahona-102016a0/)
 - [Making a personal site](pages/user_site.html)
 - [Making a site for a project](pages/project_site.html)
 - [Making a jekyll-free site](pages/nojekyll.html)
