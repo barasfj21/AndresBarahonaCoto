@@ -20,8 +20,7 @@ considero que la información es la verdadera habilitadora de oportunidades en u
 gran interés en como los procesos de análisis de datos pueden aportar tanto valor a las decisiones estratégicas
 de una empresa. 
 
-
-![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F18910721-vector-logo-de-linkedin-simbolo-de-linkedin-vector-libre-de-icono-de-linkedin&psig=AOvVaw2oiaPNY8ZBrQhYFguu1VbR&ust=1691954339745000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiRy5zr14ADFQAAAAAdAAAAABAE)
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
 
 
