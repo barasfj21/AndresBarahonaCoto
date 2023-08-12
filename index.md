@@ -22,7 +22,7 @@ de una empresa.
 
 A continuación, te presento un enlace para mi perfil de LinkedIn:
 
-- [Making an independent website](pages/independent_site.html)
+- [imagen](https://media.newyorker.com/photos/641b1fe43eae329c863357ad/16:9/w_2559,h_1439,c_limit/Thomas-Ohtani-16Game.jpg)
 - [Making a personal site](pages/user_site.html)
 - [Making a site for a project](pages/project_site.html)
 - [Making a jekyll-free site](pages/nojekyll.html)
@@ -31,12 +31,4 @@ A continuación, te presento un enlace para mi perfil de LinkedIn:
 
 ---
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
 
-Also see my [tutorials](https://kbroman.org/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
