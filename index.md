@@ -21,7 +21,7 @@ gran interés en como los procesos de análisis de datos pueden aportar tanto va
 de una empresa. 
 
 
-[![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F18910721-vector-logo-de-linkedin-simbolo-de-linkedin-vector-libre-de-icono-de-linkedin&psig=AOvVaw2DJGi8CkWm6H70WoW2Zz_u&ust=1691892712669000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi4sNKF1oADFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/andr%C3%A9s-barahona-102016a0/)
+[![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F18910721-vector-logo-de-linkedin-simbolo-de-linkedin-vector-libre-de-icono-de-linkedin&psig=AOvVaw2DJGi8CkWm6H70WoW2Zz_u&ust=1691892712669000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi4sNKF1oADFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/andr%C3%A9s-barahona-102016a0/)
 
 - [Making a personal site](pages/user_site.html)
 - [Making a site for a project](pages/project_site.html)
