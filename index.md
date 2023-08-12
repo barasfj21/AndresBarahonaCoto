@@ -20,7 +20,7 @@ considero que la información es la verdadera habilitadora de oportunidades en u
 gran interés en como los procesos de análisis de datos pueden aportar tanto valor a las decisiones estratégicas
 de una empresa. 
 
-![LinkedIn](https://play.google.com/store/apps/details/LinkedIn?id=com.linkedin.android&hl=es_VE)
+![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/910/721/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg)
 
 
 
