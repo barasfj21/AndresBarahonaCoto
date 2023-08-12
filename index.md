@@ -20,9 +20,8 @@ considero que la información es la verdadera habilitadora de oportunidades en u
 gran interés en como los procesos de análisis de datos pueden aportar tanto valor a las decisiones estratégicas
 de una empresa. 
 
-A continuación, te presento un enlace para mi perfil de LinkedIn:
 
-- [imagen](https://media.newyorker.com/photos/641b1fe43eae329c863357ad/16:9/w_2559,h_1439,c_limit/Thomas-Ohtani-16Game.jpg)
+- [https://play.google.com/store/apps/details/LinkedIn?id=com.linkedin.android&hl=es_VE](https://www.linkedin.com/in/andr%C3%A9s-barahona-102016a0/)
 - [Making a personal site](pages/user_site.html)
 - [Making a site for a project](pages/project_site.html)
 - [Making a jekyll-free site](pages/nojekyll.html)
