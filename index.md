@@ -21,7 +21,7 @@ gran interés en como los procesos de análisis de datos pueden aportar tanto va
 de una empresa. 
 
 ![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/910/721/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg)
-<img src="https://static.vecteezy.com/system/resources/previews/018/910/721/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="200" height="200"/>
+<img src="https://static.vecteezy.com/system/resources/previews/018/910/721/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="80" height="80">
 
 
 
