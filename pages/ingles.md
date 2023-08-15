@@ -5,7 +5,7 @@ tagline: Página personal
 description: prueba
 ---
 
-**Welcome to my personal page!**
+Welcome to my personal page!
 
 My name is Andrés Barahona Coto, and I am a student of Information Technology Administration, 
 I am a student of Information Technology Administration at Tecnológico de Costa Rica. The career has ten semesters, and at this moment 
@@ -22,9 +22,3 @@ processes can bring so much value to a company's strategic decisions.
 <a href="https://www.linkedin.com/in/andr%C3%A9s-barahona-102016a0/"><img src="https://static.vecteezy.com/system/resources/previews/018/910/721/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="80" height="80"></a>
 
 ---
-
-More information:
-
-- [Contact](pages/contacto.html)
-- [Portuguese profile](pages/portugues.html)
-- [Spanish profile](pages/index.html)

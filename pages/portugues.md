@@ -5,7 +5,7 @@ tagline: Página personal
 description: prueba
 ---
 
-**Bem-vindo à minha página pessoal!**
+Bem-vindo à minha página pessoal!
 
 Meu nome é Andrés Barahona Coto e sou estudante de Administração de Tecnologia da Informação, no Tecnológico de Costa Rica. 
 A carreira tem dez semestres e, neste momento, estou no oitavo semestre. Estou no oitavo semestre, portanto, pretendo concluir 
@@ -23,9 +23,3 @@ estratégicas de uma empresa.
 <a href="https://www.linkedin.com/in/andr%C3%A9s-barahona-102016a0/"><img src="https://static.vecteezy.com/system/resources/previews/018/910/721/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="80" height="80"></a>
 
 ---
-
-Mais informação:
-
-- [Contacto](pages/contacto.html)
-- [Perfil em Espanhol](pages/index.html)
-- [Perfil em Inglês](pages/ingles.html)
