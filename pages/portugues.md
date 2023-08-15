@@ -5,7 +5,7 @@ tagline: Página personal
 description: prueba
 ---
 
-**Bem-vindo à minha página pessoal!
+**Bem-vindo à minha página pessoal!**
 
 Meu nome é Andrés Barahona Coto e sou estudante de Administração de Tecnologia da Informação, no Tecnológico de Costa Rica. 
 A carreira tem dez semestres e, neste momento, estou no oitavo semestre. Estou no oitavo semestre, portanto, pretendo concluir 
@@ -27,5 +27,5 @@ estratégicas de uma empresa.
 Mais informação:
 
 - [Contacto](pages/contacto.html)
-- [Perfil em Espanhol](pages/portugues.html)
+- [Perfil em Espanhol](pages/index.html)
 - [Perfil em Inglês](pages/ingles.html)
